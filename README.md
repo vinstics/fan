@@ -1,2 +1,2 @@
 # fan
-AI
+Low entropy engine
